@@ -13,4 +13,5 @@ Such concepts implemented for this project included:
   - Sequence Diagrams	
   - Design Class Diagram	
   - Video Link
-The result was an Android application that was similar to UTA's housing portal that let users view and apply to housing in one place.
+    
+The result was an Android application that was similar to UTA's housing portal that let users view and apply for housing in one place.
