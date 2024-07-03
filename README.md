@@ -11,7 +11,6 @@ Such concepts implemented for this project included:
   - Expanded Use Cases	
   - User Interface Prototypes	
   - Sequence Diagrams	
-  - Design Class Diagram	
-  - Video Link
+  - Design Class Diagram
     
 The result was an Android application that was similar to UTA's housing portal that let users view and apply for housing in one place.
